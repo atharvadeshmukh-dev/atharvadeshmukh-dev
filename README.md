@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **atharva.main.co@gmail.com** For Collaboration/Project or 
 - 👯 **I’m looking to collaborate on:** A Full Stack Chat App
 - 🤔 **I’m looking for help on:** A Full Stack Chat App
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ryden.crexo@gmail.com
+- 📫 **How to reach me:** atharva.main.co@gmail.com
 - ⚡ **Fun fact:** I Love Tech
 
 
